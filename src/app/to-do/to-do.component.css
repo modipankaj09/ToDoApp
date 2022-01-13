@@ -1,0 +1,13 @@
+
+
+.todo
+{
+    display: flex;
+    padding: 10px 15px;
+    background-color: #FFF;
+    border-bottom: 1px solid #DDD;
+}
+.completed
+{
+    text-decoration: line-through;
+}
